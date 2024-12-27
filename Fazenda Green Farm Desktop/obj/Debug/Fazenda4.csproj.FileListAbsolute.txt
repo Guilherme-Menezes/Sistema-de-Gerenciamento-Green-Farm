@@ -1,0 +1,167 @@
+C:\Users\guime\Documents\GitHub\Fazenda4\bin\Debug\Fazenda4.exe.config
+C:\Users\guime\Documents\GitHub\Fazenda4\bin\Debug\Fazenda4.exe
+C:\Users\guime\Documents\GitHub\Fazenda4\bin\Debug\Fazenda4.pdb
+C:\Users\guime\Documents\GitHub\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+C:\Users\guime\Documents\GitHub\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+C:\Users\guime\Documents\GitHub\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+C:\Users\guime\Documents\GitHub\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+C:\Users\guime\Documents\GitHub\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+C:\Users\guime\Documents\GitHub\Fazenda4\obj\Debug\Fazenda4.exe
+C:\Users\guime\Documents\GitHub\Fazenda4\obj\Debug\Fazenda4.pdb
+F:\Arquivos\UNIP\Testes\Fazenda4\bin\Debug\Fazenda4.exe.config
+F:\Arquivos\UNIP\Testes\Fazenda4\bin\Debug\Fazenda4.exe
+F:\Arquivos\UNIP\Testes\Fazenda4\bin\Debug\Fazenda4.pdb
+F:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+F:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+F:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+F:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+F:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+F:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.exe
+F:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.pdb
+E:\Arquivos\UNIP\Testes\Fazenda4\bin\Debug\Fazenda4.exe.config
+E:\Arquivos\UNIP\Testes\Fazenda4\bin\Debug\Fazenda4.exe
+E:\Arquivos\UNIP\Testes\Fazenda4\bin\Debug\Fazenda4.pdb
+E:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+E:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+E:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+E:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+E:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+E:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.exe
+E:\Arquivos\UNIP\Testes\Fazenda4\obj\Debug\Fazenda4.pdb
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\Fazenda4.exe.config
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\Fazenda4.exe
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\Fazenda4.pdb
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guime\Documents\PIM\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+C:\Users\guime\Documents\PIM\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+C:\Users\guime\Documents\PIM\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+C:\Users\guime\Documents\PIM\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+C:\Users\guime\Documents\PIM\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+C:\Users\guime\Documents\PIM\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+C:\Users\guime\Documents\PIM\Fazenda4\obj\Debug\Fazenda4.exe
+C:\Users\guime\Documents\PIM\Fazenda4\obj\Debug\Fazenda4.pdb
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\bin\Debug\Fazenda4.exe.config
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\bin\Debug\Fazenda4.exe
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\bin\Debug\Fazenda4.pdb
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\obj\Debug\Fazenda4.exe
+C:\Users\USER\Downloads\Fazenda_Final-main\Fazenda_Final-main\Fazenda4\obj\Debug\Fazenda4.pdb
+D:\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.exe.config
+D:\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.exe
+D:\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.pdb
+D:\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+D:\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+D:\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+D:\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+D:\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+D:\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+D:\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.exe
+D:\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.pdb
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.exe.config
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.exe
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.pdb
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.exe
+C:\Users\guime\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.pdb
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.exe.config
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.exe
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Fazenda4.pdb
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.exe
+C:\Users\USER\Documents\GitHub\Fazenda_Final\Fazenda4\obj\Debug\Fazenda4.pdb
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.exe.config
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.exe
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.pdb
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.exe
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.pdb
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.exe.config
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.exe
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.pdb
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.exe
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.pdb
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.exe.config
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.exe
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.pdb
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.exe
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.pdb
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\itextsharp.dll
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\itextsharp.xml
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\BouncyCastle.Cryptography.dll
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\itextsharp.dll
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\BouncyCastle.Cryptography.xml
+F:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\itextsharp.xml
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\itextsharp.dll
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\UNIP\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\itextsharp.xml
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.exe.config
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.exe
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Fazenda4.pdb
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\itextsharp.dll
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\itextsharp.xml
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.TelaInicial.resources
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.Properties.Resources.resources
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.csproj.Up2Date
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.exe
+C:\Users\USER\Downloads\PIM - 4 SEMESTRE\Fazenda4\obj\Debug\Fazenda4.pdb
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\itextsharp.dll
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\guime\Documents\PIM\Fazenda4\bin\Debug\itextsharp.xml

@@ -1,0 +1,20 @@
+Primavera,Sul, Milho, Soja, Feijão
+Primavera,Centro-Oeste, Milho, Soja, Algodão
+Primavera,Sudeste, Café, Cana-de-açúcar, 
+Primavera,Nordeste, Milho, Feijão-caupi
+Primavera,Norte, Soja, Milho, Amendoim
+Outono,Sul, Agrião, Couve, Alface
+Outono,Sudeste, Rúcula, Rabanete, Cebola
+Outono,Centro-Oeste, Abóbora, Melão, Pimentão
+Outono,Nordeste, Melancia, Alface, Feijão
+Outono,Norte, Cenoura, Cebola, Tomate
+Inverno,Sul, Trigo, Aveia, Milho
+Inverno,Sudeste, Trigo, Girassol, Feijão
+Inverno,Centro-Oeste, Aveia, Girassol, Cevada
+Inverno,Nordeste, Alface, Abóbora, Salsa
+Inverno,Norte, Melancia, Melão, Repolho
+Verão,Sul, Beterraba, Coentro, Couve
+Verão,Sudeste, Cenoura, Pimeta, Alface
+Verão,Centro-Oeste, Tomate, Milho, Couve-Flor
+Verão,Nordeste, Melão, Pepino, Abóbora
+Verão,Norte, Melancia, Cenoura, Pimenta
